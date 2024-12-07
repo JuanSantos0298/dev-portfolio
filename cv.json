@@ -1,106 +1,121 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Juan Carlos Pablo Santos",
+    "label": "Ingeniero en Tecnologias de la Informacion",
+    "image": "/me.jpg",
+    "email": "juansantos0298@gmail.com",
+    "phone": "+52 244-126-",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "Ingeniero en Tecnologías de la Información. Entusiasta en el desarrollo de proyectos y aplicaciones Web y Móviles aplicando los procesos correspondientes a la Ingeniería de Software.",
+    "theme": "blue",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "Rio Apulco #307 Col. Altavista",
+      "postalCode": "74240",
+      "city": "Puebla",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "juan-carlos-pablo-santos",
+        "url": "https://www.linkedin.com/in/juan-carlos-pablo-santos"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "JuanSantos0298",
+        "url": "https://github.com/JuanSantos0298"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Virtual Vanguard Solutions",
+      "position": "Desarrollador Web Freelancer",
+      "location_type": "Remoto",
+      "location": "Puebla, Puebla",
+      "url": "https://virtualvanguard-solutions.com/",
+      "startDate": "2024-06-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Desarrollo de páginas y aplicaciones web asi como aplicaciones móviles. Colaboración con el equipo de trabajo para el diseño, implementación y desarrollo de los productos de software. Comunicación con los clientes para la recolección de requerimientos ",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Mejora de sitios web ya existentes y desarrollo de páginas web informativas usando Astro y Tailwind."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Desarrollo de aplicaciones y páginas web para diversos clientes y enfocado a diversos rubros de la industria ",
+        "Conceptualización y diseño de sitios web informativos",
+        "Desarrollo en conjunto con los clientes para el diseño de las interfaces",
+        "Gestión de servidor Cloudflare para registro y mantenimientos de dominios de páginas web"
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Colaborar con un estudio de animación llamado Osaniza en el desarrollo y lanzamiento de su paginas web informativa. Desarrollo de aplicaciónes a medida para negocios."
       ],
       "skills": [
         "React",
+        "Next",
         "Tailwind",
+        "GitHub",
+        "JavaScript",
+        "TypeScript",
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Facultad de Ciencias de la Computación BUAP (Desarrollo de Tesis)",
+      "position": "Desarrollador de aplicaciones móviles",
+      "location_type": "Híbrida",
+      "location": "Puebla, Puebla",
+      "url": "https://www.cs.buap.mx/",
+      "startDate": "2023-01-15",
+      "endDate": "2024-03-12",
+      "summary": "Desarrollo de tesis titulada “Nuevas Tendencias de UX/UI en aplicaciones móviles",
+      "highlights": [
+        "Desarrollo de una aplicacion móvil orientada a la oferta y demanda de productos, bienes y servicios en una comunidad local. Mejoras de UI con respecto a las aplicaciones ya existentes en el mercado y mejora de eficiencia del 20% "
+      ],
+      "responsibilities": [
+        "Manejo de información de usuarios, implementación de base de datos noSQL, implementación de servicios de autenticación de Google, uso de almacenamiento en la nube utilizando la plataforma de desarrollo Firebase",
+        "Diseño e implementación de interfaces utilizando Flutter, Dart y la librería de Material UI 3.0 ",
+        "Desarrollo de investigación relacionada a la construcción de interfaces usando material bibliográfico así como guías de estilos de Google, Affordance, desarrollo de UX/UI",
+        "Uso de gestor de estado Provider para almacenar y cambiar valores en la aplicación"
+      ],
+      "achievements": [
+        "Desarrollo exitoso de aplicación Flutter orientada para Android"
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase",
         "GitHub"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "DCyTIC BUAP (Prácticas Profesionales)",
+      "position": "Desarrollador Web",
+      "location_type": "Presencial",
+      "location": "Puebla, Puebla",
+      "url": "https://dcytic.buap.mx/",
+      "startDate": "2023-01-15",
+      "endDate": "2023-12-12",
+      "summary": "Desarrollo de aplcaciones web institucionales para diversos fines internos. ",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Desarrollo de una aplicacion web orientada a un manejo y renovación de refrendos para proveedores. Generación de constancias para refrendados utilizando librerías especializadas."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Diseño e implementación de módulos de diseño para aplicaciones institucionales, así como gestión y administración de base de datos empleando patrones de diseño MVC, manejo de librerías propias del entorno de desarrollo como externas.",
+        "Estandarización del flujo de trabajo, estructuración de los proyectos para escalabilidad y manejo de información sensible para la institución",
+        "Creación de manuales de usuario para los diversos sistemas realizados, enfatizando las funcionalidades de cada uno y proporcionando instruccions precisas para cada escenario posible. ",
+        "Desarrollo de Wireframes y Mockups para futuras aplicaciones dentro de la institución utilizando herramientas de diseño."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Desarrollo de aplicación de sistema de renovación de refrendo a proveedores, manejo y gestión exitosa de información sensible de la institución ante posible perdida. Generación de documentos oficiales institucionales."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
+        "C#",
+        ".NET",
+        "JQuery",
+        "JavaScript",
+        "Bootstrap",
+        "SQLServer"
       ]
     }
   ],
@@ -119,51 +134,28 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Benemérita Universidad Autónoma de Puebla",
+      "url": "https://www.cs.buap.mx/",
+      "area": "Facultad de Ciencias de la Computación. ",
+      "studyType": "Licenciatura",
+      "startDate": "2018-08-06",
+      "endDate": "2023-12-05",
+      "score": "8.9",
+      "courses": []
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Scrum Foundation Professional Certificate SFPC 2024",
+      "date": "2024-08-21",
+      "issuer": "CertiProf",
+      "url": "https://free.certiprof.com/products/curso-para-la-certificacion-profesional-en-scrum-foundation-espanol"
+    },
+    {
+      "name": "Diplomado en Ciencia de Datos",
+      "date": "2024-10-16",
+      "issuer": "Tecnológico Nacional de México. Folio: cawMXq59W",
+      "url": "https://constancias.tecnm.mx/"
     }
   ],
   "skills": [
@@ -173,15 +165,6 @@
       "keywords": [
         "Design",
         "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -232,16 +215,6 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Intermediate",
       "keywords": [
@@ -271,17 +244,6 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
@@ -290,16 +252,82 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Frontend",
+        "Flutter Widget Language Programming"
+      ]
+    },
+    {
+      "name": "Dart",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Frontend",
+        "Flutter Language Programming"
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Agile Methodologie"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Agile Methodologie"
+      ]
+    },
+    {
+      "name": "UML",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Software Engineering"
+      ]
+    },
+    {
+      "name": "NextJS",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Software Engineering"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Software Engineering"
+      ]
+    },
+    {
+      "name": "SQLServer",
+      "level": "Intermediate",
+      "keywords": [
+        "Software Development",
+        "Software Engineering"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Inglés",
+      "fluency": "B1"
     }
   ],
   "interests": [
@@ -320,7 +348,7 @@
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
         "Built with React and Tailwind CSS",
