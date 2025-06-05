@@ -6,7 +6,7 @@
     "email": "juansantos0298@gmail.com",
     "phone": "+52 244-126-",
     "url": "https://johndoe.dev",
-    "summary": "Ingeniero en Tecnologías de la Información. Entusiasta en el desarrollo de proyectos y aplicaciones Web y Móviles aplicando los procesos correspondientes a la Ingeniería de Software.",
+    "summary": "Ingeniero en Tecnologías de la Información. Entusiasta en el desarrollo de proyectos de desarrollo de software, desarrollando aplicaciones web y aplicaciones móviles multiplataforma aplicando los procesos correspondientes a la Ingeniería de Software.",
     "theme": "blue",
     "location": {
       "address": "Rio Apulco #307 Col. Altavista",
@@ -29,6 +29,36 @@
     ]
   },
   "work": [
+    {
+      "name": "B Life",
+      "position": "Desarrollador de aplicaciones móviles",
+      "location_type": "Presencial",
+      "location": "Lomas de Angelópolis, San Bernardino Tlaxcalancingo, Pue.",
+      "url": "https://virtualvanguard-solutions.com/",
+      "startDate": "2025-03-08",
+      "endDate": "2025-06-08",
+      "summary": "Desarrollo e impleentación de interfaces para una nueva aplicación móvil para la empresa. Diseño e implementación de nuevas funcionalidades, correcciones, e implementación de mejoras visuales a la aplicación principal. Colaboración con equipos internos de trabajo para el diseño, implementación y desarrollo de la aplicación. ",
+      "highlights": [
+        "Implementación de interfaces de manera fiel acorde a la guía de estilos y los diseños proporcionados de la empresa."
+      ],
+      "responsibilities": [
+        "Desarrollo de una nueva aplicación móvil para la empresa, ",
+        "Diseño e implemetación de interfaces para una nueva aplicación e implementación de nuevas mejoras visuales a la aplicación principal de la empresa",
+        "Desarrollo en conjunto con los equipos de experiencia de usuario y el equio de Backend ",
+        "Uso de sistema de gestión de versiones (Github) para mantener el control de cada nueva funcionalidad y corrección de errores"
+      ],
+      "achievements": [
+        "Colaboración con otros desarrolladores y equipos de trabajo con respecto a la obtención de información de los servidores de la empresa y equipos de diseño para implementar adecuadamente las interfaces establecidas."
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Git",
+        "GitHub",
+        "Postman",
+        "Figma"
+      ]
+    },
     {
       "name": "Virtual Vanguard Solutions",
       "position": "Desarrollador Web Freelancer",
@@ -139,7 +169,7 @@
       "area": "Facultad de Ciencias de la Computación. ",
       "studyType": "Licenciatura",
       "startDate": "2018-08-06",
-      "endDate": "2023-12-05",
+      "endDate": "2024-05-08",
       "score": "8.9",
       "courses": []
     }
@@ -159,14 +189,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
     {
       "name": "HTML",
       "level": "Intermediate",
@@ -318,6 +340,23 @@
         "Software Development",
         "Software Engineering"
       ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Begginer",
+      "keywords": [
+        "Backend",
+        "API Testing",
+        "HTTP Requests"
+      ]
     }
   ],
   "languages": [
@@ -327,7 +366,7 @@
     },
     {
       "language": "Inglés",
-      "fluency": "B1"
+      "fluency": "B2"
     }
   ],
   "interests": [
