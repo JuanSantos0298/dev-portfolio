@@ -37,7 +37,7 @@
       "url": "https://virtualvanguard-solutions.com/",
       "startDate": "2025-03-08",
       "endDate": "2025-06-08",
-      "summary": "Desarrollo e impleentación de interfaces para una nueva aplicación móvil para la empresa. Diseño e implementación de nuevas funcionalidades, correcciones, e implementación de mejoras visuales a la aplicación principal. Colaboración con equipos internos de trabajo para el diseño, implementación y desarrollo de la aplicación. ",
+      "summary": "Desarrollo e implementación de interfaces para una nueva aplicación móvil para la empresa. Diseño e implementación de nuevas funcionalidades, correcciones, e implementación de mejoras visuales a la aplicación principal. Colaboración con equipos internos de trabajo para el diseño, implementación y desarrollo de la aplicación. ",
       "highlights": [
         "Implementación de interfaces de manera fiel acorde a la guía de estilos y los diseños proporcionados de la empresa."
       ],
@@ -386,36 +386,35 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Virtual Vanguard Solutions Landing Page",
       "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Una landing page orientada a los servicios que ofrece la consultora de desarrollo Virtual Vanguard Solutions.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Desarrollada usando Astro y Tailwind CSS",
+        "Incluye algunos elementos animados y formularios de contacto"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://virtualvanguard-solutions.com/",
+      "github": "https://github.com/VirtualVanguardSolutions"
     },
     {
-      "name": "Weather App",
+      "name": "OsaniZa Studios Landing Page",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Una landing page orientada a mostrar la información y servicios ofrecidos por el estudio de animación OsaniZa.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Consruida con Astro, Tailwind CSS y Javascript",
+        "Diseño responsivo y animaciones sutiles"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://osaniza-studio.com/"
     },
     {
-      "name": "Task Manager",
+      "name": "Tráelo Mobile App",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Una aplicación móvil dirigida a usuarios Android, enfocada en la creación y maejo de listas de inventarios de compras",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Desarrollada con Flutter, Dart, Material UI",
+        "Manejo de almacenamiento local en el dispositivo, acceso a Internet, animaciones y transiciones suaves"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://traelo.virtualvanguard-solutions.com/"
     },
     {
       "name": "E-commerce Site",

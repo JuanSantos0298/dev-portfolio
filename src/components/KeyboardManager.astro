@@ -130,7 +130,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 			hotkey: "ctrl+P",
 			section: "Opciones",
 			handler: () => {
-				window.print();
+				window.open("src/documents/cv.pdf", "_blank");
 			},
 		},
 		...data,
