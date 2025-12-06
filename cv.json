@@ -4,9 +4,9 @@
     "label": "Ingeniero en Tecnologias de la Informacion",
     "image": "/me.jpg",
     "email": "juansantos0298@gmail.com",
-    "phone": "+52 244-126-",
-    "url": "https://johndoe.dev",
-    "summary": "Ingeniero en Tecnologías de la Información. Entusiasta en el desarrollo de proyectos de desarrollo de software, desarrollando aplicaciones web y aplicaciones móviles multiplataforma aplicando los procesos correspondientes a la Ingeniería de Software.",
+    "phone": "+52 244-126-33-82",
+    "url": "https://junsantos.dev",
+    "summary": "Ingeniero en Tecnologías de la Información, con experiencia en el desarrollo de software Orientado principalmente al desarrollo web Front-End y el desarrollo de aplicaciones móviles multiplataforma. Busco una oportunidad como Desarrollador Flutter Jr o Front-End Jr para seguir aprendiendo y aportando valor a mi comunidad.",
     "theme": "blue",
     "location": {
       "address": "Rio Apulco #307 Col. HighView",
@@ -35,109 +35,99 @@
       "location_type": "Presencial",
       "location": "Lomas de Angelópolis, San Bernardino Tlaxcalancingo, Pue.",
       "url": "https://virtualvanguard-solutions.com/",
-      "startDate": "2025-03-08",
-      "endDate": "2025-06-08",
-      "summary": "Desarrollo e implementación de interfaces para una nueva aplicación móvil para la empresa. Diseño e implementación de nuevas funcionalidades, correcciones, e implementación de mejoras visuales a la aplicación principal. Colaboración con equipos internos de trabajo para el diseño, implementación y desarrollo de la aplicación. ",
+      "startDate": "2025-03-01",
+      "endDate": "2025-06-30",
+      "summary": "Desarrollo de aplicación móvil multiplataforma para empresa de bienestar y salud. Colaboración con equipos de Backend y UX para implementación de nuevas funcionalidades.",
       "highlights": [
-        "Implementación de interfaces de manera fiel acorde a la guía de estilos y los diseños proporcionados de la empresa."
+        "Implementación fiel de interfaces según guía de estilos empresarial",
+        "Colaboración exitosa con equipos multidisciplinarios (Backend, UX, Diseño)"
       ],
       "responsibilities": [
-        "Desarrollo de una nueva aplicación móvil para la empresa, ",
-        "Diseño e implemetación de interfaces para una nueva aplicación e implementación de nuevas mejoras visuales a la aplicación principal de la empresa",
-        "Desarrollo en conjunto con los equipos de experiencia de usuario y el equio de Backend ",
-        "Uso de sistema de gestión de versiones (Github) para mantener el control de cada nueva funcionalidad y corrección de errores"
+        "Desarrollo de aplicación móvil multiplataforma con Flutter y Dart para iOS/Android",
+        "Implementación de arquitectura con Provider para gestión eficiente de estado",
+        "Diseño de interfaces siguiendo Material Design 3.0 y guías de UX/UI",
+        "Colaboración con equipos de Backend y UX mediante metodologías ágiles",
+        "Gestión de versiones y control de cambios con Git/GitHub"
       ],
       "achievements": [
-        "Colaboración con otros desarrolladores y equipos de trabajo con respecto a la obtención de información de los servidores de la empresa y equipos de diseño para implementar adecuadamente las interfaces establecidas."
+        "Implementación exitosa de nuevas funcionalidades en aplicación principal de la empresa",
+        "Desarrollo completo de nueva aplicación móvil desde cero"
       ],
       "skills": [
         "Flutter",
         "Dart",
         "Git",
         "GitHub",
-        "Postman",
+        "Material Design 3.0",
+        "Provider",
         "Figma"
       ]
     },
     {
       "name": "Virtual Vanguard Solutions",
-      "position": "Desarrollador Web Freelancer",
+      "position": "Desarrollador Web/Aplicaciones Móviles",
       "location_type": "Remoto",
       "location": "Puebla, Puebla",
       "url": "https://virtualvanguard-solutions.com/",
-      "startDate": "2024-06-01",
+      "startDate": "2024-05-08",
       "endDate": null,
-      "summary": "Desarrollo de páginas y aplicaciones web asi como aplicaciones móviles. Colaboración con el equipo de trabajo para el diseño, implementación y desarrollo de los productos de software. Comunicación con los clientes para la recolección de requerimientos ",
+      "summary": "Desarrollo de aplicaciones web y móviles para clientes de diversos sectores (animación, salud, tecnología). Consultoría en desarrollo de software y gestión de infraestructura web.",
       "highlights": [
-        "Mejora de sitios web ya existentes y desarrollo de páginas web informativas usando Astro y Tailwind."
+        "Desarrollo y lanzamiento de 4 proyectos web/móviles en producción",
+        "Gestión exitosa de infraestructura con Cloudflare para múltiples dominios"
       ],
       "responsibilities": [
-        "Desarrollo de aplicaciones y páginas web para diversos clientes y enfocado a diversos rubros de la industria ",
+        "Desarrollo de aplicaciones web y móviles para clientes de sectores diversos (animación, salud, tecnología)",
+        "Proyectos completados: OsaniZa Studio, Life Mobile, Hospital Covadonga, Virtual Vanguard Solutions (landing page)",
         "Conceptualización y diseño de sitios web informativos",
-        "Desarrollo en conjunto con los clientes para el diseño de las interfaces",
-        "Gestión de servidor Cloudflare para registro y mantenimientos de dominios de páginas web"
+        "Desarrollo en conjunto con clientes para diseño de interfaces y recolección de requerimientos",
+        "Gestión de infraestructura Cloudflare para registro y mantenimiento de dominios",
+        "Consultoría en desarrollo de software y automatización de procesos"
       ],
       "achievements": [
-        "Colaborar con un estudio de animación llamado Osaniza en el desarrollo y lanzamiento de su paginas web informativa. Desarrollo de aplicaciónes a medida para negocios."
+        "Desarrollo y lanzamiento exitoso de 4 proyectos web/móviles en producción",
+        "Creación de aplicación móvil Tráelo para gestión de inventarios de compras",
+        "Desarrollo de aplicaciones y sitios web a medida para negocios de diversos rubros",
+        "Implementación exitosa de soluciones de hosting y CDN con Cloudflare"
       ],
       "skills": [
         "React",
-        "Next",
-        "Tailwind",
+        "Next.js",
+        "Tailwind CSS",
+        "Astro",
         "GitHub",
         "JavaScript",
         "TypeScript",
-        "Flutter"
-      ]
-    },
-    {
-      "name": "Facultad de Ciencias de la Computación BUAP (Desarrollo de Tesis)",
-      "position": "Desarrollador de aplicaciones móviles",
-      "location_type": "Híbrida",
-      "location": "Puebla, Puebla",
-      "url": "https://www.cs.buap.mx/",
-      "startDate": "2023-01-15",
-      "endDate": "2024-03-12",
-      "summary": "Desarrollo de tesis titulada “Nuevas Tendencias de UX/UI en aplicaciones móviles",
-      "highlights": [
-        "Desarrollo de una aplicacion móvil orientada a la oferta y demanda de productos, bienes y servicios en una comunidad local. Mejoras de UI con respecto a las aplicaciones ya existentes en el mercado y mejora de eficiencia del 20% "
-      ],
-      "responsibilities": [
-        "Manejo de información de usuarios, implementación de base de datos noSQL, implementación de servicios de autenticación de Google, uso de almacenamiento en la nube utilizando la plataforma de desarrollo Firebase",
-        "Diseño e implementación de interfaces utilizando Flutter, Dart y la librería de Material UI 3.0 ",
-        "Desarrollo de investigación relacionada a la construcción de interfaces usando material bibliográfico así como guías de estilos de Google, Affordance, desarrollo de UX/UI",
-        "Uso de gestor de estado Provider para almacenar y cambiar valores en la aplicación"
-      ],
-      "achievements": [
-        "Desarrollo exitoso de aplicación Flutter orientada para Android"
-      ],
-      "skills": [
         "Flutter",
-        "Dart",
-        "Firebase",
-        "GitHub"
+        "Cloudflare",
+        "SEO"
       ]
     },
     {
-      "name": "DCyTIC BUAP (Prácticas Profesionales)",
+      "name": "DCyTIC BUAP",
       "position": "Desarrollador Web",
       "location_type": "Presencial",
-      "location": "Puebla, Puebla",
+      "location": "BUAP Puebla, Pue.",
       "url": "https://dcytic.buap.mx/",
-      "startDate": "2023-01-15",
-      "endDate": "2023-12-12",
-      "summary": "Desarrollo de aplcaciones web institucionales para diversos fines internos. ",
+      "startDate": "2023-01-05",
+      "endDate": "2023-12-31",
+      "summary": "Desarrollo de aplicaciones web institucionales para la Dirección de Cómputo y Tecnologías de Información y Comunicaciones de la BUAP. Prácticas Profesionales.",
       "highlights": [
-        "Desarrollo de una aplicacion web orientada a un manejo y renovación de refrendos para proveedores. Generación de constancias para refrendados utilizando librerías especializadas."
+        "Desarrollo exitoso de sistema de renovación de refrendo para proveedores",
+        "Manejo seguro de información sensible institucional"
       ],
       "responsibilities": [
-        "Diseño e implementación de módulos de diseño para aplicaciones institucionales, así como gestión y administración de base de datos empleando patrones de diseño MVC, manejo de librerías propias del entorno de desarrollo como externas.",
-        "Estandarización del flujo de trabajo, estructuración de los proyectos para escalabilidad y manejo de información sensible para la institución",
-        "Creación de manuales de usuario para los diversos sistemas realizados, enfatizando las funcionalidades de cada uno y proporcionando instruccions precisas para cada escenario posible. ",
-        "Desarrollo de Wireframes y Mockups para futuras aplicaciones dentro de la institución utilizando herramientas de diseño."
+        "Desarrollo de aplicaciones web institucionales con arquitectura MVC",
+        "Creación de sistema de renovación de refrendo para proveedores",
+        "Gestión segura de información sensible y generación de documentos oficiales",
+        "Elaboración de manuales técnicos y documentación de usuario",
+        "Diseño de wireframes y mockups para proyectos futuros",
+        "Estandarización del flujo de trabajo y estructuración de proyectos"
       ],
       "achievements": [
-        "Desarrollo de aplicación de sistema de renovación de refrendo a proveedores, manejo y gestión exitosa de información sensible de la institución ante posible perdida. Generación de documentos oficiales institucionales."
+        "Desarrollo de aplicación de sistema de renovación de refrendo a proveedores",
+        "Gestión exitosa de información sensible de la institución",
+        "Generación automatizada de documentos oficiales institucionales"
       ],
       "skills": [
         "C#",
@@ -145,7 +135,78 @@
         "JQuery",
         "JavaScript",
         "Bootstrap",
-        "SQLServer"
+        "SQL Server",
+        "MVC",
+        "Adobe XD"
+      ]
+    },
+    {
+      "name": "Facultad de Ciencias de la Computación BUAP",
+      "position": "Desarrollador de Aplicaciones Móviles - Proyecto de Titulación",
+      "location_type": "Híbrida",
+      "location": "Facultad de Ciencias de la Computación BUAP, Puebla, Pue.",
+      "url": "https://www.cs.buap.mx/",
+      "startDate": "2023-01-15",
+      "endDate": "2024-02-12",
+      "summary": "Desarrollo de tesis titulada 'Nuevas Tendencias de UX/UI en aplicaciones móviles'. Investigación y aplicación práctica de principios modernos de diseño en aplicaciones móviles.",
+      "highlights": [
+        "Desarrollo exitoso de aplicación Flutter para Android",
+        "Implementación de Material Design 3.0 y mejoras de UI del 20% respecto a aplicaciones similares"
+      ],
+      "responsibilities": [
+        "Desarrollo de aplicación Android con Flutter y Dart aplicando principios modernos de diseño",
+        "Implementación de Firebase (autenticación Google, Firestore NoSQL, Cloud Storage)",
+        "Arquitectura con Provider para gestión de estado de la aplicación",
+        "Investigación sobre Material Design 3.0, Affordance y mejores prácticas de UX/UI",
+        "Análisis de tendencias actuales en diseño de interfaces móviles"
+      ],
+      "achievements": [
+        "Desarrollo exitoso de aplicación Flutter orientada para Android",
+        "Titulación exitosa con proyecto de investigación aplicada en UX/UI"
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Material Design 3.0",
+        "Provider",
+        "UX/UI Research",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Facultad de Ciencias de la Computación BUAP",
+      "position": "Desarrollador Web - Servicio Social",
+      "location_type": "Presencial",
+      "location": "Puebla, Pue.",
+      "url": "https://www.cs.buap.mx/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Desarrollo de plataforma web para difusión de noticias e información hacia la comunidad universitaria.",
+      "highlights": [
+        "Implementación exitosa de CRUD completo con Firebase",
+        "Desarrollo de plataforma funcional para comunicación universitaria"
+      ],
+      "responsibilities": [
+        "Desarrollo de plataforma web enfocada a la difusión de noticias e información universitaria",
+        "Diseño y desarrollo de interfaces empleando Adobe XD y Figma",
+        "Manejo de repositorio del proyecto en GitHub",
+        "Desarrollo de funcionalidades CRUD de usuarios y noticias en Firebase",
+        "Implementación con React, Next.js, Tailwind CSS, JavaScript"
+      ],
+      "achievements": [
+        "Lanzamiento exitoso de plataforma de comunicación para comunidad universitaria",
+        "Implementación de sistema de gestión de contenido dinámico"
+      ],
+      "skills": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "Firebase",
+        "Figma",
+        "Adobe XD",
+        "GitHub"
       ]
     }
   ],
@@ -166,18 +227,20 @@
     {
       "institution": "Benemérita Universidad Autónoma de Puebla",
       "url": "https://www.cs.buap.mx/",
-      "area": "Facultad de Ciencias de la Computación. ",
-      "studyType": "Licenciatura",
+      "area": "Facultad de Ciencias de la Computación",
+      "studyType": "Ingeniería en Tecnologías de la Información",
       "startDate": "2018-08-06",
       "endDate": "2024-05-08",
       "score": "8.9",
+      "status": "Titulado",
+      "cedula": "14129409",
       "courses": []
     }
   ],
   "certificates": [
     {
       "name": "Scrum Foundation Professional Certificate SFPC 2024",
-      "date": "2024-08-21",
+      "date": "2025-08-21",
       "issuer": "CertiProf",
       "url": "https://free.certiprof.com/products/curso-para-la-certificacion-profesional-en-scrum-foundation-espanol"
     },
@@ -371,10 +434,27 @@
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "Desarrollo Móvil",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Flutter",
+        "Mobile UX/UI",
+        "Cross-platform"
+      ]
+    },
+    {
+      "name": "Diseño de Interfaces",
+      "keywords": [
+        "Material Design",
+        "UX Research",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Tecnologías Web Modernas",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Web Performance"
       ]
     }
   ],
@@ -386,45 +466,70 @@
   ],
   "projects": [
     {
-      "name": "Virtual Vanguard Solutions Landing Page",
+      "name": "Tráelo - Aplicación Móvil de Gestión de Inventarios",
       "isActive": true,
-      "description": "Una landing page orientada a los servicios que ofrece la consultora de desarrollo Virtual Vanguard Solutions.",
+      "description": "Aplicación móvil Android enfocada en la creación y manejo de listas de inventarios de compras para facilitar la organización personal.",
       "highlights": [
-        "Desarrollada usando Astro y Tailwind CSS",
-        "Incluye algunos elementos animados y formularios de contacto"
+        "Desarrollada con Flutter, Dart y Material UI",
+        "Almacenamiento local en el dispositivo",
+        "Animaciones y transiciones suaves",
+        "Interfaz intuitiva y fácil de usar"
+      ],
+      "url": "https://traelo.virtualvanguard-solutions.com/",
+      "github": null
+    },
+    {
+      "name": "Virtual Vanguard Solutions - Sitio Corporativo",
+      "isActive": true,
+      "description": "Sitio web de la consultora de desarrollo de software. Portafolio de servicios, casos de éxito y plataforma de contacto para clientes potenciales.",
+      "highlights": [
+        "Desarrollado con Astro y Tailwind CSS",
+        "Portafolio interactivo de proyectos completados",
+        "Descripción de servicios y consultoría",
+        "Formulario de contacto funcional"
       ],
       "url": "https://virtualvanguard-solutions.com/",
       "github": "https://github.com/VirtualVanguardSolutions"
     },
     {
-      "name": "OsaniZa Studios Landing Page",
+      "name": "Life Mobile - Aplicación Multiplataforma",
       "isActive": true,
-      "description": "Una landing page orientada a mostrar la información y servicios ofrecidos por el estudio de animación OsaniZa.",
+      "description": "Aplicación móvil desarrollada para gestión de servicios de salud y bienestar. Interfaz intuitiva con funcionalidades modernas.",
       "highlights": [
-        "Consruida con Astro, Tailwind CSS y Javascript",
-        "Diseño responsivo y animaciones sutiles"
+        "Desarrollada con Flutter y Dart",
+        "Integración con Firebase (autenticación y base de datos)",
+        "Interfaz siguiendo Material Design 3.0",
+        "Funcionalidades en tiempo real"
       ],
-      "url": "https://osaniza-studio.com/"
+      "url": "https://life-mobile.netlify.app",
+      "github": null
     },
     {
-      "name": "Tráelo Mobile App",
+      "name": "Hospital Covadonga - Landing Page Institucional",
       "isActive": true,
-      "description": "Una aplicación móvil dirigida a usuarios Android, enfocada en la creación y maejo de listas de inventarios de compras",
+      "description": "Landing page informativa para institución de salud. Diseño profesional enfocado en transmitir confianza y accesibilidad.",
       "highlights": [
-        "Desarrollada con Flutter, Dart, Material UI",
-        "Manejo de almacenamiento local en el dispositivo, acceso a Internet, animaciones y transiciones suaves"
+        "Desarrollada con Wix Studio personalizado",
+        "Diseño limpio y profesional",
+        "Información de servicios médicos",
+        "Formularios de contacto optimizados"
       ],
-      "url": "https://traelo.virtualvanguard-solutions.com/"
+      "url": "https://virtualvanguard154.wixstudio.io/hospitalcovadonga",
+      "github": null
     },
     {
-      "name": "E-commerce Site",
+      "name": "Aplicación de Tesis - Nuevas Tendencias UX/UI en Aplicaciones Móviles - Appnunciate",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Aplicación móvil Android desarrollada como proyecto de titulación enfocada en implementar nuevas tendencias de UX/UI y Material Design 3.0 en aplicaciones móviles.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Desarrollada con Flutter, Dart y Firebase",
+        "Implementación de Material Design 3.0",
+        "Gestión de estado con Provider",
+        "Autenticación con Google y Firestore",
+        "Investigación aplicada sobre Affordance y mejores prácticas de diseño"
       ],
-      "url": "https://ecommerce.com"
+      "url": null,
+      "github": "https://github.com/JuanSantos0298/appnunciate"
     }
   ]
 }
